@@ -16,6 +16,7 @@ Inicio:Promedio de tres numeros
  - Pedir numero3
  - Pedir numero4
  - Sumar los tres numeros,dividir entre el numero de digitos y almacenar en resultado
+ - Mostrar respuesta
  
  ##Fin
  
